@@ -1,4 +1,4 @@
-## Getting Started
+## AP Comp Sci Java
 
 Here is where I will list all my assignments
 
